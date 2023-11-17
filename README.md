@@ -12,7 +12,9 @@ A mock government that will use github functions for the pull requests, issues, 
 6. Merge the pull request
 
 ## How to vote
-1. TODO
+* Memebers will have one week to vote on bylaws.
+* All bylaws must be submitted to the membership for a vote at least 1 week prior to the vote.
+* All changes to laws must be submitted as a pull request and voted on by the membership.
 
 ## How to create a poll
 1. TODO
