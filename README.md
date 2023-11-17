@@ -19,5 +19,8 @@ A mock government that will use github functions for the pull requests, issues, 
 ## How to create a poll
 1. TODO
 
+## Handling merge conflicts 
+1. TODO
+
 ## ByLaws
 [bylaws](ByLaws.md)
